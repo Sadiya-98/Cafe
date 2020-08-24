@@ -1,0 +1,26 @@
+.nav-wrapper{
+    background-color:#6f4037;
+}
+h3,h5,div,p{
+    font-family: 'Lobster', cursive;
+}
+.slider .indicators .indicator-item.active{
+    background-color:#6f4037;
+}
+.move{
+    margin-top:60px;
+    margin-bottom: 20px;
+}
+.parallax-container{
+    min-height: 280px;
+    min-width: auto;
+}
+.icon-coffee{
+    color: #6f4037;
+}
+.footer-one{
+    background-color:#6f4037;
+}
+.footer-two{
+    background-color: #462822;
+}
